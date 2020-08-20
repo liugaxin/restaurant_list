@@ -26,3 +26,8 @@ npm run dev
 
 * __點擊餐廳清單可以查看餐廳細節（評分、簡介、地址、電話)__
 * __利用關鍵字（名稱或是種類）可以搜尋餐廳__
+
+# Heroku 部署
+```
+https://stark-mountain-42714.herokuapp.com
+```
